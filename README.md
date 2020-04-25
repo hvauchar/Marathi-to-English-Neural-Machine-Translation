@@ -9,6 +9,7 @@ Neural Machine Translation By Jointly Learning To Align And Translate based on D
 ● Alignment models trained and evaluated on English-to-French translation achieve higher accuracy than fixed-length encoder-decoder models, especially on longer sentences. 
 
 
+![gitgif](https://user-images.githubusercontent.com/49407332/80278468-1d5dbe80-8714-11ea-8e18-4c75f5077e6d.gif)
 
 ![mar2](https://user-images.githubusercontent.com/49407332/80278417-a45e6700-8713-11ea-8d3d-fd0fb8e73642.png)
 ![mar6](https://user-images.githubusercontent.com/49407332/80278418-a58f9400-8713-11ea-943e-3dc159dde695.png)
